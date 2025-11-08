@@ -1,24 +1,26 @@
 ---
-title: Home
-layout: page
+layout: home
+title: "Welcome"
 ---
 
-# Bootstrap Workshop Template!
+# Hi, I'm Cantao 👋  
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+PhD candidate in the **NLP & Society Lab** at Utrecht University.  
+I work on **data diversity for fair and robust NLP**, especially how language variation
+(dialects, registers, styles) affects model performance and fairness.
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+I enjoy building tools that connect **sociolinguistics** and **neural language models**,
+and thinking about how we can evaluate diversity in a principled way.
 
-*Add your workshop abstract here!*
+## News
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+- 2025 – Started my PhD on *Semantic Diversity* in NLP datasets.
+- 2024 – Graduated MSc Voice Technology (cum laude), University of Groningen.
+- 2023 – Thesis on improving dysarthric speech recognition with wav2vec 2.0.
 
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
+## Quick links
 
-{% include toc.html %}
-
-------
-
-{% include template/credits.html %}
+- [About](./content/about.html)
+- [Research](./content/research.html)
+- [Publications](./content/publications.html)
+- [Blog](./content/blog.html)
