@@ -7,7 +7,7 @@ description: "Selected papers, theses, and talks."
 ---
 ## Journal & conference papers
 
-- *To appear.* (You can list your papers here in whatever style you like.)
+- *To appear.* 
 
 ## Thesis
 
